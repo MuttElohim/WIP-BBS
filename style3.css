@@ -1,0 +1,15 @@
+.posthead {
+    display: inline-flex;
+}
+.posthead div {
+    padding-right: 4px;
+}
+.post {
+    padding-left: 16px;
+}
+.nav {
+    display: inline-flex;
+}
+.nav div {
+    padding-right: 2px;
+}
